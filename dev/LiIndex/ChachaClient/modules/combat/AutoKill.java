@@ -2,7 +2,7 @@ package dev.LiIndex.ChachaClient.modules.combat;
 
 import net.minecraft.Minecraft;
 import math.minecraft.util.Hit;
-import math.minecraft.util.HitRange();
+import math.minecraft.util.HitRange;
 import net.minecraft.server.Server;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.Player;
