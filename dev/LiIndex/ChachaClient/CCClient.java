@@ -9,4 +9,8 @@ public class CCClient {
   public Minecraft mc = Minecraft.getMinecraft();
   Logger LOGGER = new LOGGER();
   public CopyOnWriteArrayList<name> modules = new CopyOnWriteArrayList<name>();
+  
+  public void register() {
+  
+  }
 }
